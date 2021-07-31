@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkumar2307
+- 👋 Hi, I’m Manoj Kumar G
 - 👀 I’m interested in DevOps and cloud computing
 
 <!---
