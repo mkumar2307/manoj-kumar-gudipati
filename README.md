@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj Kumar G
+- 👋 Hi, I’m Manoj Kumar Gudipati
 -  :man_technologist: I work on CI/CD, DevOps Technologies and [multi]Cloud Computing
 - 📫 How to reach me: https://www.linkedin.com/in/manoj-gudipati-50385618b/
 <!---
