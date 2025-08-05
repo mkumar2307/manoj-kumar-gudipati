@@ -2,7 +2,7 @@
 
 👨‍💻 I specialize in **CI/CD**, **DevOps/DevSecOps**, and **Multi-Cloud Computing**  
 🌐 Working across **AWS**, **Azure**, **GCP**, and **RedHat OpenShift**  
-🔧 Skilled in tools like **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Jenkins**      
+🔧 Skilled in tools like **Jenkins**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Gitlab CI**      
 💻 I code in **Python** and **Go**        
 
 📫 How to reach me: https://www.linkedin.com/in/manoj-gudipati-50385618b/         
